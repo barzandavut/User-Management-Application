@@ -43,3 +43,6 @@ Kullanıcıları, gönderileri, albümleri ve yapılacakları yönetmek için bi
 - Kullanıcı listesini görmek için ana sayfaya gidin.
 - Detaylarını, gönderilerini, albümlerini ve yapılacaklarını görmek için bir kullanıcıya tıklayın.
 - İçerikleri yer imlerine eklemek için favoriler özelliğini kullanın.
+
+**Davut Çiftçi**  
+- [LinkedIn](https://www.linkedin.com/in/davutciftci/) • [GitHub](https://github.com/barzandavut)
